@@ -1,0 +1,5 @@
+{
+  "delay": 100,
+  "watch": ["*.js","*.py"],
+  "ignore": ["node_modules"]
+}
