@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>HelloSign Embedded Starter (CDN)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://cdn.hellosign.com/public/js/embedded/v2.0.0/embedded.production.min.js"></script>
+  </head>
+  <body>
+    <script>
+      var client = new window.HelloSign({
+        clientId: 'b4b14f2a36ddc60105fd3d75b250eb64',
+        skipDomainVerification: true
+      });
+
+      client.open('https://app.hellosign.com/editor/embeddedSign?signature_id=0cefae11db7a4c1fcb2c0e6127a72cbd&token=1873de6a390e3f614981569b1c0c6b73');
+    </script>
+  </body>
+</html>
