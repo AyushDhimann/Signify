@@ -6,7 +6,7 @@ Supported File Types: .pdf, .docx, .png, .txt
 
 Note: Kindly refrain from submitting files with spaces in their names.
 
-**Installation of Signify Backend on Ubuntu Server**
+# Installation of Signify Backend on Ubuntu Server
 
 ```
 git clone https://github.com/AyushDhimann/Signify/ && cd Signify/ && chmod +x install.sh && sudo bash install.sh
