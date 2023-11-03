@@ -16,9 +16,9 @@ git clone https://github.com/AyushDhimann/Signify/ && cd Signify/ && chmod +x in
 
 <table>
   <tr>
-    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/d2943b70-1650-4b8b-a1d8-70079ccca76c" width="33%"></td>
-    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/abb7aee2-148c-4fdd-98b8-5ea677c29a3d" width="33%"></td>
-    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/f5153b10-25bd-48fc-bd8e-c1720ec12012" width="33%"></td>
+    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/d2943b70-1650-4b8b-a1d8-70079ccca76c" ></td>
+    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/abb7aee2-148c-4fdd-98b8-5ea677c29a3d" ></td>
+    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/f5153b10-25bd-48fc-bd8e-c1720ec12012"></td>
   </tr>
 </table>
 
