@@ -17,14 +17,12 @@ git clone https://github.com/AyushDhimann/Signify/ && cd Signify/ && chmod +x in
 <table>
   <tr>
     <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/d2943b70-1650-4b8b-a1d8-70079ccca76c" width="33%"></td>
-    <td>![Simulator Screenshot - iPhone 13 mini - 2023-10-10 at 22 01 58](https://github.com/AyushDhimann/Signify/assets/95091403/d2943b70-1650-4b8b-a1d8-70079ccca76c)</td>
-    
-      
+    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/abb7aee2-148c-4fdd-98b8-5ea677c29a3d" width="33%"></td>
+    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/f5153b10-25bd-48fc-bd8e-c1720ec12012" width="33%"></td>
   </tr>
 </table>
 
-![Simulator Screenshot - iPhone 13 mini - 2023-10-10 at 22 01 45](https://github.com/AyushDhimann/Signify/assets/95091403/abb7aee2-148c-4fdd-98b8-5ea677c29a3d)
-![Simulator Screenshot - iPhone 13 mini - 2023-10-10 at 22 01 33](https://github.com/AyushDhimann/Signify/assets/95091403/f5153b10-25bd-48fc-bd8e-c1720ec12012)
+
 ![Simulator Screenshot - iPhone 13 mini - 2023-10-10 at 22 00 15](https://github.com/AyushDhimann/Signify/assets/95091403/f1cdd64c-811a-4fb9-9821-b82454c221b2)
 ![Simulator Screenshot - iPhone 13 mini - 2023-10-10 at 21 58 43](https://github.com/AyushDhimann/Signify/assets/95091403/521ca2b7-e367-48b0-89d5-ca95749fb5cf)
 ![Simulator Screenshot - iPhone 13 mini - 2023-10-10 at 21 58 29](https://github.com/AyushDhimann/Signify/assets/95091403/9102d5d4-162b-4df9-9eca-00046297907c)
