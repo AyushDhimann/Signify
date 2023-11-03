@@ -12,7 +12,7 @@ Note: Kindly refrain from submitting files with spaces in their names.
 git clone https://github.com/AyushDhimann/Signify/ && cd Signify/ && chmod +x install.sh && sudo bash install.sh
 ```
 
-## Screenshots
+# Screenshots
 
 <table>
   <tr>
