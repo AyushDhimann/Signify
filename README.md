@@ -16,8 +16,9 @@ git clone https://github.com/AyushDhimann/Signify/ && cd Signify/ && chmod +x in
 
 <table>
   <tr>
+    <td><img src="https://github.com/AyushDhimann/Signify/assets/95091403/d2943b70-1650-4b8b-a1d8-70079ccca76c" width="33%"></td>
     <td>![Simulator Screenshot - iPhone 13 mini - 2023-10-10 at 22 01 58](https://github.com/AyushDhimann/Signify/assets/95091403/d2943b70-1650-4b8b-a1d8-70079ccca76c)</td>
-    <td></td>
+    
       
   </tr>
 </table>
