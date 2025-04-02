@@ -12,6 +12,11 @@ Note: Kindly refrain from submitting files with spaces in their names.
 git clone https://github.com/AyushDhimann/Signify/ && cd Signify/ && chmod +x install.sh && sudo bash install.sh
 ```
 
+
+# Demo on YouTube
+
+[![Watch the video](https://img.youtube.com/vi/Sh2jXEjD3XY/hqdefault.jpg)](https://www.youtube.com/watch?v=Sh2jXEjD3XY)
+
 # Screenshots
 
 <table>
